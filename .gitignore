@@ -5,3 +5,4 @@ deactivate*
 conanbuild*
 test_package/build
 kk
+.DS_Store
