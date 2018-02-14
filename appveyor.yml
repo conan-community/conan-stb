@@ -9,7 +9,7 @@ environment:
     CONAN_REFERENCE: "stb/20180214"
     CONAN_USERNAME: "conan"
     CONAN_LOGIN_USERNAME: "conanbot"
-    CONAN_CHANNEL: "stable"
+    CONAN_CHANNEL: "testing"
     CONAN_UPLOAD: "https://api.bintray.com/conan/conan-community/conan"
     CONAN_STABLE_BRANCH_PATTERN: "release/*"
     CONAN_UPLOAD_ONLY_WHEN_STABLE: 1 # Will only upload when the branch matches "release/*"
