@@ -1,6 +1,6 @@
 # conan-stb
 
-[![Download](https://api.bintray.com/packages/conan-community/conan/stb%3Aconan/images/download.svg?version=20180214%3Astable)](https://bintray.com/conan-community/conan/stb%3Aconan/0180214%3Astable/link)
+[![Download](https://api.bintray.com/packages/conan-community/conan/stb%3Aconan/images/download.svg?version=20180214%3Astable)](https://bintray.com/conan-community/conan/stb%3Aconan/20180214%3Astable/link)
 
 [![Build Status](https://travis-ci.org/conan-community/conan-stb.svg?branch=stable%2F20180214)](https://travis-ci.org/conan-community/conan-stb)
 
