@@ -6,8 +6,8 @@ from conans import ConanFile, tools
 class StbConan(ConanFile):
     name = "stb"
     version = "20180214"
-    license = "MIT"
-    url = "https://github.com/nothings/stb"
+    license = "Public domain"
+    url = "https://github.com/conan-community/conan-stb"
     description = "stb single-file public domain libraries for C/C++ https://twitter.com/nothings"
     no_copy_source = True
 
