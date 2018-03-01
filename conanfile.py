@@ -24,3 +24,4 @@ class StbConan(ConanFile):
 
     def package(self):
         self.copy("*.h", src="stb", dst="include")
+        self.copy("*why_public_domain.md", src="stb", dst="licenses")
