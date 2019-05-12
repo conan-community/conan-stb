@@ -1,6 +1,6 @@
 env:
    global:
-     - CONAN_REFERENCE: "stb/20180214"
+     - CONAN_REFERENCE: "stb/20190512"
      - CONAN_USERNAME: "conan"
      - CONAN_LOGIN_USERNAME: "conanbot"
      - CONAN_CHANNEL: "testing"
